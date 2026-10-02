@@ -176,7 +176,7 @@
 #define BOARD_GT2560_V41B             1322  // Geeetech GT2560 V4.1B for A10(M/T/D)
 #define BOARD_EINSTART_S              1323  // Einstart retrofit
 #define BOARD_WANHAO_ONEPLUS          1324  // Wanhao 0ne+ i3 Mini
-#define BOARD_WANHAO_D9               1325  // Wanhao D9 MK2
+#define BOARD_WANHAO_D9               1325  // Wanhao Duplicator 9
 #define BOARD_OVERLORD                1326  // Overlord/Overlord Pro
 #define BOARD_HJC2560C_REV1           1327  // ADIMLab Gantry v1
 #define BOARD_HJC2560C_REV2           1328  // ADIMLab Gantry v2
@@ -495,6 +495,7 @@
 #define BOARD_ZNP_ROBIN_NANO_V1_3           5259  // Elegoo Neptune 2 v1.3 board
 #define BOARD_MKS_NEPTUNE_X                 5260  // Elegoo Neptune X
 #define BOARD_MKS_NEPTUNE_3                 5261  // Elegoo Neptune 3
+#define BOARD_MKS_E3D_V2                    5262  // Elegoo Neptune 3 Pro / Plus / Max (STM32F401RC)
 
 //
 // Other ARM Cortex-M4
